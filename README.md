@@ -35,7 +35,7 @@ Follow me on LinkedIn for more data analysis projects and insights: [LinkedIn Pr
 ---
 
 Explore the power of data analytics and unlock valuable insights with this Sales Dashboard project! Feel free to reach out for any questions or collaborations. Happy analyzing! 🚀
-on LinkedIn for more data analysis projects and insights: LinkedIn Profile
+on LinkedIn for more data analysis projects and insights: [LinkedIn Profile](https://www.linkedin.com/in/premkumar-rajendraprasath/)
 
 Tags:
 #DataAnalysis #DataAnalyst #Excel #DataVisualization #BusinessIntelligence #SalesAnalytics
